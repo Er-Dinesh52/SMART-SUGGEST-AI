@@ -1,10 +1,6 @@
 # SMART-SUGGEST-AI
 AI POWERED SMART RECOMMENDATION SYSTEM 
 
-Sure — here is a **clean, professional README.md** for your CrossRec-XAI project.
-
-# CrossRec-XAI
-
 ## Agentic AI-Based Cross-Domain Explainable Recommendation System
 
 CrossRec-XAI is an intelligent **cross-domain recommendation platform** that uses Agentic AI, multi-behavior user modeling, semantic retrieval, hybrid recommendation, and Explainable AI to provide personalized recommendations.
